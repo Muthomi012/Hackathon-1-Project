@@ -17,9 +17,7 @@ This project is built as part of the hackathon challenge using **HTML, CSS, Java
 ✅ **(Any other standout feature related to your project)**.  
 
 ## **🛠️ Technology Stack**  
-- **Frontend**: HTML, CSS (Tailwind/Bootstrap), JavaScript  
-- **Backend**: _(if applicable, mention backend technology like Node.js, Firebase, or PHP)_  
-- **Database**: MySQL / Firebase / MongoDB  
+- **Frontend**: HTML, CSS (Tailwind/Bootstrap), JavaScript    
 - **Hosting**: GitHub Pages / Netlify / Vercel  
 
 ## **📂 Installation & Setup**  
